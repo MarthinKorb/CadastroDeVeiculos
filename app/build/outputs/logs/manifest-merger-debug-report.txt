@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13ae96729fa9e8421989ab87808ac165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7bdf38cf97fa5ca2b109620158c4dd09\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4d38fb1f0e9203998a0bbe56cbf75cb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1f6a9516a9bf528d7421636e208429e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7fc9f792879301d5fe69046420c73b51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6bab07aa69b7960b2ac55110aa975f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f08fc78b3b692e73665e6b6f36c6f8ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\22c8c3edb33c7bf1ca63d709e20fc0b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40d1c72b8eb5177613fe9d5a8e5a4c90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9e5a4f91b5e0306b4694dca70fb21b55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\751e50b0b182513114468a34566d03ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\003216ca50b63f249440e8676679c426\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7bdf38cf97fa5ca2b109620158c4dd09\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7bdf38cf97fa5ca2b109620158c4dd09\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.liberato.mobile.cadastrodeveculos.MainActivity
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.liberato.mobile.cadastrodeveculos.CadastroActivity
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:19:19-51
+activity#com.liberato.mobile.cadastrodeveculos.ConsultaActivity
+ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml:20:19-51
+uses-sdk
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13ae96729fa9e8421989ab87808ac165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13ae96729fa9e8421989ab87808ac165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7bdf38cf97fa5ca2b109620158c4dd09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7bdf38cf97fa5ca2b109620158c4dd09\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4d38fb1f0e9203998a0bbe56cbf75cb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4d38fb1f0e9203998a0bbe56cbf75cb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1f6a9516a9bf528d7421636e208429e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1f6a9516a9bf528d7421636e208429e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7fc9f792879301d5fe69046420c73b51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7fc9f792879301d5fe69046420c73b51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6bab07aa69b7960b2ac55110aa975f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6bab07aa69b7960b2ac55110aa975f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f08fc78b3b692e73665e6b6f36c6f8ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f08fc78b3b692e73665e6b6f36c6f8ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\22c8c3edb33c7bf1ca63d709e20fc0b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\22c8c3edb33c7bf1ca63d709e20fc0b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40d1c72b8eb5177613fe9d5a8e5a4c90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40d1c72b8eb5177613fe9d5a8e5a4c90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9e5a4f91b5e0306b4694dca70fb21b55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9e5a4f91b5e0306b4694dca70fb21b55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\751e50b0b182513114468a34566d03ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\751e50b0b182513114468a34566d03ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\003216ca50b63f249440e8676679c426\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\marth\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\003216ca50b63f249440e8676679c426\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marth\AndroidStudioProjects\CadastrodeVeculos\app\src\main\AndroidManifest.xml
